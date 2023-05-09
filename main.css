@@ -1,0 +1,36 @@
+head {
+	background-color: blueviolet;
+}
+
+body {
+	background-color: beige !important;
+}
+
+.container {
+	font-family: 'Raleway';
+	background-color: sandybrown;
+}
+
+iframe {
+	max-width: 100%;
+	background-color: beige;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 15px;
+}
+
+p {
+	text-align: center;
+}
+
+
+[class^="col"] {
+	padding: 20px;
+}
+
+br {
+	outline: 1px solid black;
+}
